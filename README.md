@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An alarum to England sounding the most fearefull and terrible example of Gods vengeance, that euer w
+bookplate
+1. To the Right VVorſhipfull Sir William Crauen, Knight, one of the Aldermen of the Honorable and famous City of London, Grace, health, and pr•ſperitie in this world, and the perpetuall fauour and preſence of God in the world to come.
+
+1. To the VVorſhipfull Maſter Boothby, Maſter Iay, M. Venn, M. Moody, M. Dorington, M. Sprot, M. Moore, M. Waſhborne, M. White, M. Smith, of the Pariſh of S. Antholins London, and to all the deuout and zealous hearers of the Morning Lectures there, Grace, mercy and peace bee multiplied with God the Father, through IESVS CHRIST.
+
 #####Body#####
-An alarum to England sounding the most fearefull and terrible example of Gods vengeance, that euer w
+
+1. AN Alarum to England.
+
 **Types of content**
 
   * There are 6 **verse** lines!
